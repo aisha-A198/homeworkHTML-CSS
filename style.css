@@ -1,0 +1,83 @@
+body{
+    background: linear-gradient(#e66465, #9198e5);
+    opacity: 0.9;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0 ;
+}
+
+/* the styling for first section */
+.first-section{
+display: flex;
+margin-left: 30px;
+margin-top: 30px;
+}
+
+.image-content{
+    position: relative;
+    margin-top: 30px;
+}
+
+#first-content{
+    position: absolute;
+    /* width: fit-content; */
+    left: 250px;
+    font-weight: 200;
+}
+
+#paragraph-content{
+    font-family: "Oswald", sans-serif;
+}
+
+/* the styling for first section */
+
+.seconde-section{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    /* width: 50px;
+    height: 50px; */
+}
+ table, tr,  td{
+    border: 2px solid;
+    font-family: 'Rock Salt', cursive;
+
+}
+
+td{
+    padding-left:  70px;
+    padding-right:  70px;
+
+}
+
+
+/* the styling for third section */
+.third-section{
+    align-items: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.third-table{
+   
+    margin-left: 10%;
+    margin-right: 10%;
+    /* width: 50px;
+    height: 50px; */
+}
+.archivment{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.button-page{
+    background-color: rgb(246, 90, 33);
+    width: 120px;
+    height: 50px;
+    font-size: medium;
+    border-radius: 1px;
+    text-align: center;
+    margin-left: 50%;
+    margin-left: 50%;
+}
